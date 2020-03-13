@@ -1,0 +1,334 @@
+one,two,3
+four,five,6
+seven,eight,9
+ten,eleven,12
+thirteen,fourteen,15
+sixteen,seventeen,18
+nineteen,twenty,21
+twenty two,twenty three,24
+twenty five,twenty six,27
+twenty eight,twenty nine,30
+thirty one,thirty two,33
+thirty four,thirty five,36
+thirty seven,thirty eight,39
+forty ,forty one,42
+forty three,forty four,45
+forty six,forty seven,48
+forty nine,fifty ,51
+fifty two,fifty three,54
+fifty five,fifty six,57
+fifty eight,fifty nine,60
+sixty one,sixty two,63
+sixty four,sixty five,66
+sixty seven,sixty eight,69
+seventy ,seventy one,72
+seventy three,seventy four,75
+seventy six,seventy seven,78
+seventy nine,eighty ,81
+eighty two,eighty three,84
+eighty five,eighty six,87
+eighty eight,eighty nine,90
+ninety one,ninety two,93
+ninety four,ninety five,96
+ninety seven,ninety eight,99
+one hundred ,one hundred one,102
+one hundred three,one hundred four,105
+one hundred six,one hundred seven,108
+one hundred nine,one hundred ten,111
+one hundred twelve,one hundred thirteen,114
+one hundred fifteen,one hundred sixteen,117
+one hundred eighteen,one hundred nineteen,120
+one hundred twenty one,one hundred twenty two,123
+one hundred twenty four,one hundred twenty five,126
+one hundred twenty seven,one hundred twenty eight,129
+one hundred thirty ,one hundred thirty one,132
+one hundred thirty three,one hundred thirty four,135
+one hundred thirty six,one hundred thirty seven,138
+one hundred thirty nine,one hundred forty ,141
+one hundred forty two,one hundred forty three,144
+one hundred forty five,one hundred forty six,147
+one hundred forty eight,one hundred forty nine,150
+one hundred fifty one,one hundred fifty two,153
+one hundred fifty four,one hundred fifty five,156
+one hundred fifty seven,one hundred fifty eight,159
+one hundred sixty ,one hundred sixty one,162
+one hundred sixty three,one hundred sixty four,165
+one hundred sixty six,one hundred sixty seven,168
+one hundred sixty nine,one hundred seventy ,171
+one hundred seventy two,one hundred seventy three,174
+one hundred seventy five,one hundred seventy six,177
+one hundred seventy eight,one hundred seventy nine,180
+one hundred eighty one,one hundred eighty two,183
+one hundred eighty four,one hundred eighty five,186
+one hundred eighty seven,one hundred eighty eight,189
+one hundred ninety ,one hundred ninety one,192
+one hundred ninety three,one hundred ninety four,195
+one hundred ninety six,one hundred ninety seven,198
+one hundred ninety nine,two hundred ,201
+two hundred two,two hundred three,204
+two hundred five,two hundred six,207
+two hundred eight,two hundred nine,210
+two hundred eleven,two hundred twelve,213
+two hundred fourteen,two hundred fifteen,216
+two hundred seventeen,two hundred eighteen,219
+two hundred twenty,two hundred twenty one,222
+two hundred twenty three,two hundred twenty four,225
+two hundred twenty six,two hundred twenty seven,228
+two hundred twenty nine,two hundred thirty ,231
+two hundred thirty two,two hundred thirty three,234
+two hundred thirty five,two hundred thirty six,237
+two hundred thirty eight,two hundred thirty nine,240
+two hundred forty one,two hundred forty two,243
+two hundred forty four,two hundred forty five,246
+two hundred forty seven,two hundred forty eight,249
+two hundred fifty ,two hundred fifty one,252
+two hundred fifty three,two hundred fifty four,255
+two hundred fifty six,two hundred fifty seven,258
+two hundred fifty nine,two hundred sixty ,261
+two hundred sixty two,two hundred sixty three,264
+two hundred sixty five,two hundred sixty six,267
+two hundred sixty eight,two hundred sixty nine,270
+two hundred seventy one,two hundred seventy two,273
+two hundred seventy four,two hundred seventy five,276
+two hundred seventy seven,two hundred seventy eight,279
+two hundred eighty ,two hundred eighty one,282
+two hundred eighty three,two hundred eighty four,285
+two hundred eighty six,two hundred eighty seven,288
+two hundred eighty nine,two hundred ninety ,291
+two hundred ninety two,two hundred ninety three,294
+two hundred ninety five,two hundred ninety six,297
+two hundred ninety eight,two hundred ninety nine,300
+three hundred one,three hundred two,303
+three hundred four,three hundred five,306
+three hundred seven,three hundred eight,309
+three hundred ten,three hundred eleven,312
+three hundred thirteen,three hundred fourteen,315
+three hundred sixteen,three hundred seventeen,318
+three hundred nineteen,twenty,321
+three hundred twenty two,three hundred twenty three,324
+three hundred twenty five,three hundred twenty six,327
+three hundred twenty eight,three hundred twenty nine,330
+three hundred thirty one,three hundred thirty two,333
+three hundred thirty four,three hundred thirty five,336
+three hundred thirty seven,three hundred thirty eight,339
+three hundred forty ,three hundred forty one,342
+three hundred forty three,three hundred forty four,345
+three hundred forty six,three hundred forty seven,348
+three hundred forty nine,three hundred fifty ,351
+three hundred fifty two,three hundred fifty three,354
+three hundred fifty five,three hundred fifty six,357
+three hundred fifty eight,three hundred fifty nine,360
+three hundred sixty one,three hundred sixty two,363
+three hundred sixty four,three hundred sixty five,366
+three hundred sixty seven,three hundred sixty eight,369
+three hundred seventy ,three hundred seventy one,372
+three hundred seventy three,three hundred seventy four,375
+three hundred seventy six,three hundred seventy seven,378
+three hundred seventy nine,three hundred eighty ,381
+three hundred eighty two,three hundred eighty three,384
+three hundred eighty five,three hundred eighty six,387
+three hundred eighty eight,three hundred eighty nine,390
+three hundred ninety one,three hundred ninety two,393
+three hundred ninety four,three hundred ninety five,396
+three hundred ninety seven,three hundred ninety eight,399
+four hundred ,four hundred one,402
+four hundred three,four hundred four,405
+four hundred six,four hundred seven,408
+four hundred nine,four hundred ten,411
+four hundred twelve,four hundred thirteen,414
+four hundred fifteen,four hundred sixteen,417
+four hundred eighteen,four hundred nineteen,420
+four hundred twenty one,four hundred twenty two,423
+four hundred twenty four,four hundred twenty five,426
+four hundred twenty seven,four hundred twenty eight,429
+four hundred thirty ,four hundred thirty one,432
+four hundred thirty three,four hundred thirty four,435
+four hundred thirty six,four hundred thirty seven,438
+four hundred thirty nine,four hundred forty ,441
+four hundred forty two,four hundred forty three,444
+four hundred forty five,four hundred forty six,447
+four hundred forty eight,four hundred forty nine,450
+four hundred fifty one,four hundred fifty two,453
+four hundred fifty four,four hundred fifty five,456
+four hundred fifty seven,four hundred fifty eight,459
+four hundred sixty ,four hundred sixty one,462
+four hundred sixty three,four hundred sixty four,465
+four hundred sixty six,four hundred sixty seven,468
+four hundred sixty nine,four hundred seventy ,471
+four hundred seventy two,four hundred seventy three,474
+four hundred seventy five,four hundred seventy six,477
+four hundred seventy eight,four hundred seventy nine,480
+four hundred eighty one,four hundred eighty two,483
+four hundred eighty four,four hundred eighty five,486
+four hundred eighty seven,four hundred eighty eight,489
+four hundred ninety ,four hundred ninety one,492
+four hundred ninety three,four hundred ninety four,495
+four hundred ninety six,four hundred ninety seven,498
+four hundred ninety nine,five hundred ,501
+five hundred two,five hundred three,504
+five hundred five,five hundred six,507
+five hundred eight,five hundred nine,510
+five hundred eleven,five hundred twelve,513
+five hundred fourteen,five hundred fifteen,516
+five hundred seventeen,five hundred eighteen,519
+five hundred twenty,five hundred twenty one,522
+five hundred twenty three,five hundred twenty four,525
+five hundred twenty six,five hundred twenty seven,528
+five hundred twenty nine,five hundred thirty ,531
+five hundred thirty two,five hundred thirty three,534
+five hundred thirty five,five hundred thirty six,537
+five hundred thirty eight,five hundred thirty nine,540
+five hundred forty one,five hundred forty two,543
+five hundred forty four,five hundred forty five,546
+five hundred forty seven,five hundred forty eight,549
+five hundred fifty ,five hundred fifty one,552
+five hundred fifty three,five hundred fifty four,555
+five hundred fifty six,five hundred fifty seven,558
+five hundred fifty nine,five hundred sixty ,561
+five hundred sixty two,five hundred sixty three,564
+five hundred sixty five,five hundred sixty six,567
+five hundred sixty eight,five hundred sixty nine,570
+five hundred seventy one,five hundred seventy two,573
+five hundred seventy four,five hundred seventy five,576
+five hundred seventy seven,five hundred seventy eight,579
+five hundred eighty ,five hundred eighty one,582
+five hundred eighty three,five hundred eighty four,585
+five hundred eighty six,five hundred eighty seven,588
+five hundred eighty nine,five hundred ninety ,591
+five hundred ninety two,five hundred ninety three,594
+five hundred ninety five,five hundred ninety six,597
+five hundred ninety eight,five hundred ninety nine,600
+six hundred one,six hundred two,603
+six hundred four,six hundred five,606
+six hundred seven,six hundred eight,609
+six hundred ten,six hundred eleven,612
+six hundred thirteen,six hundred fourteen,615
+six hundred sixteen,six hundred seventeen,618
+six hundred nineteen,twenty,621
+six hundred twenty two,six hundred twenty three,624
+six hundred twenty five,six hundred twenty six,627
+six hundred twenty eight,six hundred twenty nine,630
+six hundred thirty one,six hundred thirty two,633
+six hundred thirty four,six hundred thirty five,636
+six hundred thirty seven,six hundred thirty eight,639
+six hundred forty ,six hundred forty one,642
+six hundred forty three,six hundred forty four,645
+six hundred forty six,six hundred forty seven,648
+six hundred forty nine,six hundred fifty ,651
+six hundred fifty two,six hundred fifty three,654
+six hundred fifty five,six hundred fifty six,657
+six hundred fifty eight,six hundred fifty nine,660
+six hundred sixty one,six hundred sixty two,663
+six hundred sixty four,six hundred sixty five,666
+six hundred sixty seven,six hundred sixty eight,669
+six hundred seventy ,six hundred seventy one,672
+six hundred seventy three,six hundred seventy four,675
+six hundred seventy six,six hundred seventy seven,678
+six hundred seventy nine,six hundred eighty ,681
+six hundred eighty two,six hundred eighty three,684
+six hundred eighty five,six hundred eighty six,687
+six hundred eighty eight,six hundred eighty nine,690
+six hundred ninety one,six hundred ninety two,693
+six hundred ninety four,six hundred ninety five,696
+six hundred ninety seven,six hundred ninety eight,699
+seven hundred ,seven hundred one,702
+seven hundred three,seven hundred four,705
+seven hundred six,seven hundred seven,708
+seven hundred nine,seven hundred ten,711
+seven hundred twelve,seven hundred thirteen,714
+seven hundred fifteen,seven hundred sixteen,717
+seven hundred eighteen,seven hundred nineteen,720
+seven hundred twenty one,seven hundred twenty two,723
+seven hundred twenty four,seven hundred twenty five,726
+seven hundred twenty seven,seven hundred twenty eight,729
+seven hundred thirty ,seven hundred thirty one,732
+seven hundred thirty three,seven hundred thirty four,735
+seven hundred thirty six,seven hundred thirty seven,738
+seven hundred thirty nine,seven hundred forty ,741
+seven hundred forty two,seven hundred forty three,744
+seven hundred forty five,seven hundred forty six,747
+seven hundred forty eight,seven hundred forty nine,750
+seven hundred fifty one,seven hundred fifty two,753
+seven hundred fifty four,seven hundred fifty five,756
+seven hundred fifty seven,seven hundred fifty eight,759
+seven hundred sixty ,seven hundred sixty one,762
+seven hundred sixty three,seven hundred sixty four,765
+seven hundred sixty six,seven hundred sixty seven,768
+seven hundred sixty nine,seven hundred seventy ,771
+seven hundred seventy two,seven hundred seventy three,774
+seven hundred seventy five,seven hundred seventy six,777
+seven hundred seventy eight,seven hundred seventy nine,780
+seven hundred eighty one,seven hundred eighty two,783
+seven hundred eighty four,seven hundred eighty five,786
+seven hundred eighty seven,seven hundred eighty eight,789
+seven hundred ninety ,seven hundred ninety one,792
+seven hundred ninety three,seven hundred ninety four,795
+seven hundred ninety six,seven hundred ninety seven,798
+seven hundred ninety nine,eight hundred ,801
+eight hundred two,eight hundred three,804
+eight hundred five,eight hundred six,807
+eight hundred eight,eight hundred nine,810
+eight hundred eleven,eight hundred twelve,813
+eight hundred fourteen,eight hundred fifteen,816
+eight hundred seventeen,eight hundred eighteen,819
+eight hundred twenty,eight hundred twenty one,822
+eight hundred twenty three,eight hundred twenty four,825
+eight hundred twenty six,eight hundred twenty seven,828
+eight hundred twenty nine,eight hundred thirty ,831
+eight hundred thirty two,eight hundred thirty three,834
+eight hundred thirty five,eight hundred thirty six,837
+eight hundred thirty eight,eight hundred thirty nine,840
+eight hundred forty one,eight hundred forty two,843
+eight hundred forty four,eight hundred forty five,846
+eight hundred forty seven,eight hundred forty eight,849
+eight hundred fifty ,eight hundred fifty one,852
+eight hundred fifty three,eight hundred fifty four,855
+eight hundred fifty six,eight hundred fifty seven,858
+eight hundred fifty nine,eight hundred sixty ,861
+eight hundred sixty two,eight hundred sixty three,864
+eight hundred sixty five,eight hundred sixty six,867
+eight hundred sixty eight,eight hundred sixty nine,870
+eight hundred seventy one,eight hundred seventy two,873
+eight hundred seventy four,eight hundred seventy five,876
+eight hundred seventy seven,eight hundred seventy eight,879
+eight hundred eighty ,eight hundred eighty one,882
+eight hundred eighty three,eight hundred eighty four,885
+eight hundred eighty six,eight hundred eighty seven,888
+eight hundred eighty nine,eight hundred ninety ,891
+eight hundred ninety two,eight hundred ninety three,894
+eight hundred ninety five,eight hundred ninety six,897
+eight hundred ninety eight,eight hundred ninety nine,900
+nine hundred one,nine hundred two,903
+nine hundred four,nine hundred five,906
+nine hundred seven,nine hundred eight,909
+nine hundred ten,nine hundred eleven,912
+nine hundred thirteen,nine hundred fourteen,915
+nine hundred sixteen,nine hundred seventeen,918
+nine hundred nineteen,twenty,921
+nine hundred twenty two,nine hundred twenty three,924
+nine hundred twenty five,nine hundred twenty six,927
+nine hundred twenty eight,nine hundred twenty nine,930
+nine hundred thirty one,nine hundred thirty two,933
+nine hundred thirty four,nine hundred thirty five,936
+nine hundred thirty seven,nine hundred thirty eight,939
+nine hundred forty ,nine hundred forty one,942
+nine hundred forty three,nine hundred forty four,945
+nine hundred forty six,nine hundred forty seven,948
+nine hundred forty nine,nine hundred fifty ,951
+nine hundred fifty two,nine hundred fifty three,954
+nine hundred fifty five,nine hundred fifty six,957
+nine hundred fifty eight,nine hundred fifty nine,960
+nine hundred sixty one,nine hundred sixty two,963
+nine hundred sixty four,nine hundred sixty five,966
+nine hundred sixty seven,nine hundred sixty eight,969
+nine hundred seventy ,nine hundred seventy one,972
+nine hundred seventy three,nine hundred seventy four,975
+nine hundred seventy six,nine hundred seventy seven,978
+nine hundred seventy nine,nine hundred eighty ,981
+nine hundred eighty two,nine hundred eighty three,984
+nine hundred eighty five,nine hundred eighty six,987
+nine hundred eighty eight,nine hundred eighty nine,990
+nine hundred ninety one,nine hundred ninety two,993
+nine hundred ninety four,nine hundred ninety five,996
+nine hundred ninety seven,nine hundred ninety eight,999
+one thousand,one thousand one,1002

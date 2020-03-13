@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_batch?cachePrepStmts=true&elideSetAutoCommits=true&alwaysSendSetIsolation=false&cacheResultSetMetadata=true
+    username: 'root'
+    password: 'p@ssw0rd'
+    schema: schema-mysql.sql
+    platform: mysql
+    initialization-mode: always
+    continue-on-error: true
+  batch:
+    initialize-schema: always
+logging:
+  level:
+    org.springframework.integration: DEBUG
